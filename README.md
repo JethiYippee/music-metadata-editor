@@ -17,6 +17,11 @@ Welcome to the **Music Metadata Editor**! This project allows you to easily edit
 2. **Run the application:**
    - Double-click the downloaded `music_metadata_editor.exe` file to launch the application.
 
+#### Note on Security Warnings 🚨
+When running the executable file, you might encounter a security warning from Microsoft Defender SmartScreen because it is from an unknown publisher. If you trust the file (since it was downloaded from this repository), you can click "Run anyway" to bypass the warning.
+
+Rest assured, the executable file is safe and does not harm your computer.
+
 ## 🎨 Screenshot
 
 ![screenshot](https://private-user-images.githubusercontent.com/175253339/414781000-32a190f1-a801-4ebb-9ea9-97ac8fb4b89a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk5Nzg1MDYsIm5iZiI6MTczOTk3ODIwNiwicGF0aCI6Ii8xNzUyNTMzMzkvNDE0NzgxMDAwLTMyYTE5MGYxLWE4MDEtNGViYi05ZWE5LTk3YWM4ZmI0Yjg5YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxOVQxNTE2NDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jY2Q5Yjg1Y2FlOWFlZDUwZWZmMzlkYzQ3NDgxOTEwODAyMzE5YzA5OGM0N2JjM2MyOTYyY2FkNzE2YjJlZmM2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ayI9DsROUgsxOZpONAoRKqxfM4o58u7BEpe-m3_Sl84)
